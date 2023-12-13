@@ -1,32 +1,33 @@
-﻿#include<iostream>
-int main() {
-	int n;
-	std::cin >> n;
-	int** arr = new int* [n];
-	for (int i = 0; i < n; i++) {
-		arr[i] = new int[n];
-	}
-	//初值都为1
-	for (int i = 0; i < n; i++) {
-		for (int j = 0; j < n; j++) {
-			arr[i][j] = 1;
+﻿	#include<iostream>
+	int main() {
+		int n;
+		std::cin >> n;
+		int matrixSize = 1 << n;
+		int** arr = new int* [matrixSize];
+		for (int i = 0; i < matrixSize; i++) {
+			arr[i] = new int[matrixSize]();
 		}
-	}
-
-
-	//输出数组
-	for (int i = 0; i < n; i++) {
-		for (int j = 0; j < n; j++) {
-			std::cout << arr[i][j];
-			if (j != n - 1) {
-				std::cout << " ";
+		for (int y = 0; y < matrixSize; ++y) {
+			for (int x = 0; x < matrixSize; ++x) {
+				int bit = 0;
+				for (int k = 0;k<matrixSize; ++k) {
+					if ((x & (1 << k)) && (y & (1 << k))) {
+						bit = 1;
+						break;
+					}
+				}
+				arr[y][x] = bit;
 			}
 		}
-		std::cout << std::endl;
+		for (int i = 0; i < matrixSize; i++) {
+			for (int j = 0; j < matrixSize; j++) {
+				std::cout << arr[i][j] << " ";
+			}
+			std::cout << std::endl;
+		}
+		for (int i = 0; i < matrixSize; i++) {
+			delete[] arr[i];
+		}
+		delete[] arr;
+		return 0;
 	}
-	//释放内存
-	for (int i = 0; i < n; i++)
-		delete[]arr[i];
-	delete[]arr;
-	return 0;
-}
