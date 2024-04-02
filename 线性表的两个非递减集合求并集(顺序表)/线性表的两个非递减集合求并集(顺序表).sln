@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线性表的两个非递减集合求并集(顺序表)", "线性表的两个非递减集合求并集(顺序表)\线性表的两个非递减集合求并集(顺序表).vcxproj", "{FDDF9464-8886-4040-A3AD-907E84010D35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDDF9464-8886-4040-A3AD-907E84010D35}.Debug|x64.ActiveCfg = Debug|x64
+		{FDDF9464-8886-4040-A3AD-907E84010D35}.Debug|x64.Build.0 = Debug|x64
+		{FDDF9464-8886-4040-A3AD-907E84010D35}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDDF9464-8886-4040-A3AD-907E84010D35}.Debug|x86.Build.0 = Debug|Win32
+		{FDDF9464-8886-4040-A3AD-907E84010D35}.Release|x64.ActiveCfg = Release|x64
+		{FDDF9464-8886-4040-A3AD-907E84010D35}.Release|x64.Build.0 = Release|x64
+		{FDDF9464-8886-4040-A3AD-907E84010D35}.Release|x86.ActiveCfg = Release|Win32
+		{FDDF9464-8886-4040-A3AD-907E84010D35}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912E4CFC-2C6F-4DAC-85A4-F2F2555B6D07}
+	EndGlobalSection
+EndGlobal

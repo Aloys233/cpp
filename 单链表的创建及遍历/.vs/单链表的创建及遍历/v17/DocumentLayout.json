@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64CAB190-15ED-49BB-A0C7-533B42CF0E00}|\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386.vcxproj|D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64CAB190-15ED-49BB-A0C7-533B42CF0E00}|\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386.vcxproj|solutionrelative:\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386.cpp",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386.cpp",
+              "RelativeDocumentMoniker": "\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386.cpp",
+              "ToolTip": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386.cpp",
+              "RelativeToolTip": "\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386\\\u5355\u94FE\u8868\u7684\u521B\u5EFA\u53CA\u904D\u5386.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T09:10:13.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

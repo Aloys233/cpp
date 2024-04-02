@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u9012\u5F52\u6C42\u9636\u4E58\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E90176D5-6B5D-4FC4-A602-871213396999}|\u9012\u5F52\u6C42\u9636\u4E58\\\u9012\u5F52\u6C42\u9636\u4E58.vcxproj|D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u9012\u5F52\u6C42\u9636\u4E58\\\u9012\u5F52\u6C42\u9636\u4E58\\\u9012\u5F52\u6C42\u9636\u4E58.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E90176D5-6B5D-4FC4-A602-871213396999}|\u9012\u5F52\u6C42\u9636\u4E58\\\u9012\u5F52\u6C42\u9636\u4E58.vcxproj|solutionrelative:\u9012\u5F52\u6C42\u9636\u4E58\\\u9012\u5F52\u6C42\u9636\u4E58.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u9012\u5F52\u6C42\u9636\u4E58.cpp",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u9012\u5F52\u6C42\u9636\u4E58\\\u9012\u5F52\u6C42\u9636\u4E58\\\u9012\u5F52\u6C42\u9636\u4E58.cpp",
+              "RelativeDocumentMoniker": "\u9012\u5F52\u6C42\u9636\u4E58\\\u9012\u5F52\u6C42\u9636\u4E58.cpp",
+              "ToolTip": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u9012\u5F52\u6C42\u9636\u4E58\\\u9012\u5F52\u6C42\u9636\u4E58\\\u9012\u5F52\u6C42\u9636\u4E58.cpp",
+              "RelativeToolTip": "\u9012\u5F52\u6C42\u9636\u4E58\\\u9012\u5F52\u6C42\u9636\u4E58.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T12:47:18.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
