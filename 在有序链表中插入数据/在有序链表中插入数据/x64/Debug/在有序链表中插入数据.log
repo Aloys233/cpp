@@ -1,0 +1,6 @@
+﻿  在有序链表中插入数据.cpp
+D:\OneDrive - MSFT\Codes\c++\在有序链表中插入数据\在有序链表中插入数据\在有序链表中插入数据.cpp(7,1): warning C4005: “OVERFLOW”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1):
+  参见“OVERFLOW”的前一个定义
+  
+  在有序链表中插入数据.vcxproj -> D:\OneDrive - MSFT\Codes\c++\在有序链表中插入数据\x64\Debug\在有序链表中插入数据.exe

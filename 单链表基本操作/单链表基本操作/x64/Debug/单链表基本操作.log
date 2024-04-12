@@ -1,0 +1,6 @@
+﻿  单链表基本操作.cpp
+D:\OneDrive - MSFT\Codes\c++\单链表基本操作\单链表基本操作\单链表基本操作.cpp(7,1): warning C4005: “OVERFLOW”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1):
+  参见“OVERFLOW”的前一个定义
+  
+  单链表基本操作.vcxproj -> D:\OneDrive - MSFT\Codes\c++\单链表基本操作\x64\Debug\单链表基本操作.exe

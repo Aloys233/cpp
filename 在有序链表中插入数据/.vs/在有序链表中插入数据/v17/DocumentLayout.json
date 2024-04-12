@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B00A017-9AA1-498B-897A-F5F3D0044AF1}|\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E.vcxproj|D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B00A017-9AA1-498B-897A-F5F3D0044AF1}|\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E.vcxproj|solutionrelative:\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E.cpp",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E.cpp",
+              "RelativeDocumentMoniker": "\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E.cpp",
+              "ToolTip": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E.cpp",
+              "RelativeToolTip": "\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E\\\u5728\u6709\u5E8F\u94FE\u8868\u4E2D\u63D2\u5165\u6570\u636E.cpp",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T11:53:00.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
