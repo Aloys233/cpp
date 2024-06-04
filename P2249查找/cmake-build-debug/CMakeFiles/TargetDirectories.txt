@@ -1,0 +1,3 @@
+/cygdrive/d/OneDrive - MSFT/Codes/c++/P2249查找/cmake-build-debug/CMakeFiles/P2249_.dir
+/cygdrive/d/OneDrive - MSFT/Codes/c++/P2249查找/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/OneDrive - MSFT/Codes/c++/P2249查找/cmake-build-debug/CMakeFiles/rebuild_cache.dir

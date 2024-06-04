@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF51EDFE-3F50-46A4-87A8-EFA577A83D82}|P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570.vcxproj|D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF51EDFE-3F50-46A4-87A8-EFA577A83D82}|P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570.vcxproj|solutionrelative:P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570.cpp",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570.cpp",
+              "RelativeDocumentMoniker": "P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570.cpp",
+              "ToolTip": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570.cpp",
+              "RelativeToolTip": "P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570\\P1059 [NOIP2006 \u666E\u53CA\u7EC4] \u660E\u660E\u7684\u968F\u673A\u6570.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvxMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T04:58:46.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
