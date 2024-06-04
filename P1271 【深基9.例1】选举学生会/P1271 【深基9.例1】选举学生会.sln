@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1271 【深基9.例1】选举学生会", "P1271 【深基9.例1】选举学生会\P1271 【深基9.例1】选举学生会.vcxproj", "{E5B14832-12BD-4555-9EC0-3DEEFA43B1B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B14832-12BD-4555-9EC0-3DEEFA43B1B5}.Debug|x64.ActiveCfg = Debug|x64
+		{E5B14832-12BD-4555-9EC0-3DEEFA43B1B5}.Debug|x64.Build.0 = Debug|x64
+		{E5B14832-12BD-4555-9EC0-3DEEFA43B1B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5B14832-12BD-4555-9EC0-3DEEFA43B1B5}.Debug|x86.Build.0 = Debug|Win32
+		{E5B14832-12BD-4555-9EC0-3DEEFA43B1B5}.Release|x64.ActiveCfg = Release|x64
+		{E5B14832-12BD-4555-9EC0-3DEEFA43B1B5}.Release|x64.Build.0 = Release|x64
+		{E5B14832-12BD-4555-9EC0-3DEEFA43B1B5}.Release|x86.ActiveCfg = Release|Win32
+		{E5B14832-12BD-4555-9EC0-3DEEFA43B1B5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DCCC414-F1C3-4DB0-BEC0-02C5AF951CAB}
+	EndGlobalSection
+EndGlobal

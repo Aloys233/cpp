@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B8F43C-D7B0-45BB-85C7-DF4F8411F616}|P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334.vcxproj|D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9B8F43C-D7B0-45BB-85C7-DF4F8411F616}|P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334.vcxproj|solutionrelative:P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B8F43C-D7B0-45BB-85C7-DF4F8411F616}|P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\XSTRING||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xstring",
+              "ViewState": "AQIAANcPAAAAAAAAAAApwOEPAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T07:02:25.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334.cpp",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334.cpp",
+              "RelativeDocumentMoniker": "P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334.cpp",
+              "ToolTip": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334.cpp",
+              "RelativeToolTip": "P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334\\P1125 [NOIP2008 \u63D0\u9AD8\u7EC4] \u7B28\u5C0F\u7334.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvyYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T06:05:20.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
