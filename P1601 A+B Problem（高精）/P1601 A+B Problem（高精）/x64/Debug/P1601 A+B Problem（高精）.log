@@ -1,0 +1,6 @@
+﻿  P1601 A+B Problem（高精）.cpp
+D:\OneDrive - MSFT\Codes\c++\P1601 A+B Problem（高精）\P1601 A+B Problem（高精）\P1601 A+B Problem（高精）.cpp(11,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive - MSFT\Codes\c++\P1601 A+B Problem（高精）\P1601 A+B Problem（高精）\P1601 A+B Problem（高精）.cpp(15,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive - MSFT\Codes\c++\P1601 A+B Problem（高精）\P1601 A+B Problem（高精）\P1601 A+B Problem（高精）.cpp(18,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive - MSFT\Codes\c++\P1601 A+B Problem（高精）\P1601 A+B Problem（高精）\P1601 A+B Problem（高精）.cpp(29,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  P1601 A+B Problem（高精）.vcxproj -> D:\OneDrive - MSFT\Codes\c++\P1601 A+B Problem（高精）\x64\Debug\P1601 A+B Problem（高精）.exe
