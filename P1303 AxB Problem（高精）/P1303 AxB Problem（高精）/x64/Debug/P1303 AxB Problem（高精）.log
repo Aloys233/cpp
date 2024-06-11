@@ -1,0 +1,4 @@
+﻿  P1303 AxB Problem（高精）.cpp
+D:\OneDrive - MSFT\Codes\c++\P1303 AxB Problem（高精）\P1303 AxB Problem（高精）\P1303 AxB Problem（高精）.cpp(9,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive - MSFT\Codes\c++\P1303 AxB Problem（高精）\P1303 AxB Problem（高精）\P1303 AxB Problem（高精）.cpp(10,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  P1303 AxB Problem（高精）.vcxproj -> D:\OneDrive - MSFT\Codes\c++\P1303 AxB Problem（高精）\x64\Debug\P1303 AxB Problem（高精）.exe
