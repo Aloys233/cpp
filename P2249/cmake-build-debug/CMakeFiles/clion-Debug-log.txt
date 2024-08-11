@@ -1,4 +1,4 @@
-C:\Users\luodh\AppData\Local\JetBrains\CLion2024.1\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/g++.exe -G "CodeBlocks - Unix Makefiles" -S "/cygdrive/d/OneDrive - MSFT/Codes/c++/P2249" -B "/cygdrive/d/OneDrive - MSFT/Codes/c++/P2249/cmake-build-debug"
+C:\Users\luodh\AppData\Local\JetBrains\CLion2024.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/g++.exe -G "CodeBlocks - Unix Makefiles" -S "/cygdrive/d/OneDrive - MSFT/Codes/c++/P2249" -B "/cygdrive/d/OneDrive - MSFT/Codes/c++/P2249/cmake-build-debug"
 CMake Deprecation Warning:
   Support for "Extra Generators" like
 
@@ -20,6 +20,6 @@ CMake Deprecation Warning:
 -- Check for working CXX compiler: /usr/bin/g++.exe - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (9.1s)
+-- Configuring done (5.3s)
 -- Generating done (0.0s)
 -- Build files have been written to: /cygdrive/d/OneDrive - MSFT/Codes/c++/P2249/cmake-build-debug

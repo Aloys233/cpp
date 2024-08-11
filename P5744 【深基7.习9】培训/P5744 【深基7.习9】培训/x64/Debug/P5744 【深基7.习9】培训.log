@@ -1,0 +1,4 @@
+﻿  P5744 【深基7.习9】培训.cpp
+D:\OneDrive - MSFT\Codes\c++\P5744 【深基7.习9】培训\P5744 【深基7.习9】培训\P5744 【深基7.习9】培训.cpp(14,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive - MSFT\Codes\c++\P5744 【深基7.习9】培训\P5744 【深基7.习9】培训\P5744 【深基7.习9】培训.cpp(25,1): warning C4715: “upper”: 不是所有的控件路径都返回值
+  P5744 【深基7.习9】培训.vcxproj -> D:\OneDrive - MSFT\Codes\c++\P5744 【深基7.习9】培训\x64\Debug\P5744 【深基7.习9】培训.exe

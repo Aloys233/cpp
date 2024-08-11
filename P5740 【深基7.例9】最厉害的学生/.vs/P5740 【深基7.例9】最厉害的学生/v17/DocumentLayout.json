@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13490375-E21D-4339-9CD9-ABC27B12F33B}|P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F.vcxproj|D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13490375-E21D-4339-9CD9-ABC27B12F33B}|P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F.vcxproj|solutionrelative:P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F.cpp",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F.cpp",
+              "RelativeDocumentMoniker": "P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F.cpp",
+              "ToolTip": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F.cpp",
+              "RelativeToolTip": "P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F\\P5740 \u3010\u6DF1\u57FA7.\u4F8B9\u3011\u6700\u5389\u5BB3\u7684\u5B66\u751F.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA0wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-04T12:09:33.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

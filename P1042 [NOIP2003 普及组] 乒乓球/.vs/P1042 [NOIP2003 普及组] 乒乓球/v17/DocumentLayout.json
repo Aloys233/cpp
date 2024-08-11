@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F56E067B-84B6-4BFF-80CB-1C2015A62882}|P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403.vcxproj|D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F56E067B-84B6-4BFF-80CB-1C2015A62882}|P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403.vcxproj|solutionrelative:P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403.cpp",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403.cpp",
+              "RelativeDocumentMoniker": "P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403.cpp",
+              "ToolTip": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403.cpp",
+              "RelativeToolTip": "P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403\\P1042 [NOIP2003 \u666E\u53CA\u7EC4] \u4E52\u4E53\u7403.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwDUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T09:17:24.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

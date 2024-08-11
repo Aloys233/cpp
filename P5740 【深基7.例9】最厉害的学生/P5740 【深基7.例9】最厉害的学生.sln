@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P5740 【深基7.例9】最厉害的学生", "P5740 【深基7.例9】最厉害的学生\P5740 【深基7.例9】最厉害的学生.vcxproj", "{13490375-E21D-4339-9CD9-ABC27B12F33B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13490375-E21D-4339-9CD9-ABC27B12F33B}.Debug|x64.ActiveCfg = Debug|x64
+		{13490375-E21D-4339-9CD9-ABC27B12F33B}.Debug|x64.Build.0 = Debug|x64
+		{13490375-E21D-4339-9CD9-ABC27B12F33B}.Debug|x86.ActiveCfg = Debug|Win32
+		{13490375-E21D-4339-9CD9-ABC27B12F33B}.Debug|x86.Build.0 = Debug|Win32
+		{13490375-E21D-4339-9CD9-ABC27B12F33B}.Release|x64.ActiveCfg = Release|x64
+		{13490375-E21D-4339-9CD9-ABC27B12F33B}.Release|x64.Build.0 = Release|x64
+		{13490375-E21D-4339-9CD9-ABC27B12F33B}.Release|x86.ActiveCfg = Release|Win32
+		{13490375-E21D-4339-9CD9-ABC27B12F33B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D23A7F-2C0B-493D-AFE7-CC9EFE18DC5C}
+	EndGlobalSection
+EndGlobal

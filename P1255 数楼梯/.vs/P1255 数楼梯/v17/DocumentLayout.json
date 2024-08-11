@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1255 \u6570\u697C\u68AF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4469EAC0-BCC9-4F1C-91D3-16B776E636E9}|P1255 \u6570\u697C\u68AF\\P1255 \u6570\u697C\u68AF.vcxproj|D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1255 \u6570\u697C\u68AF\\P1255 \u6570\u697C\u68AF\\P1255 \u6570\u697C\u68AF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4469EAC0-BCC9-4F1C-91D3-16B776E636E9}|P1255 \u6570\u697C\u68AF\\P1255 \u6570\u697C\u68AF.vcxproj|solutionrelative:P1255 \u6570\u697C\u68AF\\P1255 \u6570\u697C\u68AF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P1255 \u6570\u697C\u68AF.cpp",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1255 \u6570\u697C\u68AF\\P1255 \u6570\u697C\u68AF\\P1255 \u6570\u697C\u68AF.cpp",
+              "RelativeDocumentMoniker": "P1255 \u6570\u697C\u68AF\\P1255 \u6570\u697C\u68AF.cpp",
+              "ToolTip": "D:\\OneDrive - MSFT\\Codes\\c\u002B\u002B\\P1255 \u6570\u697C\u68AF\\P1255 \u6570\u697C\u68AF\\P1255 \u6570\u697C\u68AF.cpp",
+              "RelativeToolTip": "P1255 \u6570\u697C\u68AF\\P1255 \u6570\u697C\u68AF.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T13:37:07.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

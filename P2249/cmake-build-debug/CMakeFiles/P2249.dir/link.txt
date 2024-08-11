@@ -1,1 +1,1 @@
-/usr/bin/g++.exe -g -Wl,--enable-auto-import CMakeFiles/P2249.dir/main.cpp.o -o P2249.exe -Wl,--out-implib,libP2249.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/g++.exe -g -Wl,--enable-auto-import CMakeFiles/P2249.dir/main.cpp.o -o P2249.exe -Wl,--out-implib,libP2249.dll.a -Wl,--major-image-version,0,--minor-image-version,0
