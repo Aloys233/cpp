@@ -1,13 +1,4 @@
-C:\Users\luodh\AppData\Local\JetBrains\CLion2024.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/g++.exe -G "CodeBlocks - Unix Makefiles" -S "/cygdrive/d/OneDrive - MSFT/Codes/c++/P2249" -B "/cygdrive/d/OneDrive - MSFT/Codes/c++/P2249/cmake-build-debug"
-CMake Deprecation Warning:
-  Support for "Extra Generators" like
-
-    CodeBlocks
-
-  is deprecated and will be removed from a future version of CMake.  IDEs may
-  use the cmake-file-api(7) to view CMake-generated project build trees.
-
-
+C:\Users\luodh\AppData\Local\JetBrains\CLion2024.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/g++.exe -G "Unix Makefiles" -S "/cygdrive/d/OneDrive - MSFT/Codes/c++/P2249" -B "/cygdrive/d/OneDrive - MSFT/Codes/c++/P2249/cmake-build-debug"
 -- The C compiler identification is GNU 13.2.1
 -- The CXX compiler identification is GNU 13.2.1
 -- Detecting C compiler ABI info
@@ -20,6 +11,6 @@ CMake Deprecation Warning:
 -- Check for working CXX compiler: /usr/bin/g++.exe - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (5.3s)
--- Generating done (0.0s)
+-- Configuring done (13.0s)
+-- Generating done (0.1s)
 -- Build files have been written to: /cygdrive/d/OneDrive - MSFT/Codes/c++/P2249/cmake-build-debug
