@@ -1,0 +1,10 @@
+C:\Users\luodh\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/luodh/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "D:\OneDrive - MSFT\Codes\c++\PTA" -B "D:\OneDrive - MSFT\Codes\c++\PTA\cmake-build-debug"
+    -- src/main.cpp will be compiled to bin/main
+CMake Error at CMakeLists.txt:9 (add_executable):
+  The target name "最小回文数" is reserved or not valid for certain
+  CMake features, such as generator expressions, and may result in undefined
+  behavior.
+
+
+    -- src/最小回文数.cpp will be compiled to bin/最小回文数
+-- Configuring incomplete, errors occurred!

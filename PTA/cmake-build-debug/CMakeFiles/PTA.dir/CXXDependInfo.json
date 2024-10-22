@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/OneDrive - MSFT/Codes/c++/PTA/cmake-build-debug",
+	"dir-cur-src" : "D:/OneDrive - MSFT/Codes/c++/PTA",
+	"dir-top-bld" : "D:/OneDrive - MSFT/Codes/c++/PTA/cmake-build-debug",
+	"dir-top-src" : "D:/OneDrive - MSFT/Codes/c++/PTA",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/OneDrive - MSFT/Codes/c++/PTA/cmake-build-debug/CMakeFiles/PTA.dir"
+}

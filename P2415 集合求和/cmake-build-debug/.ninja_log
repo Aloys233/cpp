@@ -1,0 +1,19 @@
+# ninja log v6
+12	289	7500908136708855	CMakeFiles/P2415_.dir/main.cpp.obj.ddi	a62f5f0f3e2eb687
+292	386	7500908140346894	CMakeFiles/P2415_.dir/CXX.dd	196d0d2d92eff7bb
+292	386	7500908140346894	D:/OneDrive - MSFT/Codes/c++/P2415 集合求和/cmake-build-debug/CMakeFiles/P2415_.dir/CXXModules.json	196d0d2d92eff7bb
+292	386	7500908140346894	CMakeFiles/P2415_.dir/main.cpp.obj.modmap	196d0d2d92eff7bb
+388	1656	7500908140467286	CMakeFiles/P2415_.dir/main.cpp.obj	c2a855aafb4917aa
+1657	2587	7500908153162852	P2415_.exe	558873c452ec1e3c
+14	300	7500909189034185	CMakeFiles/P2415_.dir/main.cpp.obj.ddi	a62f5f0f3e2eb687
+301	377	7500909191909412	CMakeFiles/P2415_.dir/CXX.dd	196d0d2d92eff7bb
+301	377	7500909191909412	D:/OneDrive - MSFT/Codes/c++/P2415 集合求和/cmake-build-debug/CMakeFiles/P2415_.dir/CXXModules.json	196d0d2d92eff7bb
+301	377	7500909191909412	CMakeFiles/P2415_.dir/main.cpp.obj.modmap	196d0d2d92eff7bb
+381	1630	7500909192710989	CMakeFiles/P2415_.dir/main.cpp.obj	c2a855aafb4917aa
+1630	2110	7500909205201638	P2415_.exe	558873c452ec1e3c
+12	275	7500913591983866	CMakeFiles/P2415_.dir/main.cpp.obj.ddi	a62f5f0f3e2eb687
+276	363	7500913594612952	CMakeFiles/P2415_.dir/CXX.dd	196d0d2d92eff7bb
+276	363	7500913594612952	D:/OneDrive - MSFT/Codes/c++/P2415 集合求和/cmake-build-debug/CMakeFiles/P2415_.dir/CXXModules.json	196d0d2d92eff7bb
+276	363	7500913594612952	CMakeFiles/P2415_.dir/main.cpp.obj.modmap	196d0d2d92eff7bb
+364	1524	7500913595501757	CMakeFiles/P2415_.dir/main.cpp.obj	c2a855aafb4917aa
+1525	2202	7500913607103097	P2415_.exe	558873c452ec1e3c

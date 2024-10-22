@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/OneDrive - MSFT/Codes/c++/P2415 \u96c6\u5408\u6c42\u548c/cmake-build-debug",
+	"dir-cur-src" : "D:/OneDrive - MSFT/Codes/c++/P2415 \u96c6\u5408\u6c42\u548c",
+	"dir-top-bld" : "D:/OneDrive - MSFT/Codes/c++/P2415 \u96c6\u5408\u6c42\u548c/cmake-build-debug",
+	"dir-top-src" : "D:/OneDrive - MSFT/Codes/c++/P2415 \u96c6\u5408\u6c42\u548c",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/OneDrive - MSFT/Codes/c++/P2415 \u96c6\u5408\u6c42\u548c/cmake-build-debug/CMakeFiles/P2415_.dir"
+}

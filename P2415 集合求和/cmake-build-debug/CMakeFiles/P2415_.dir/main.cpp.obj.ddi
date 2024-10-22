@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\P2415_.dir\\main.cpp.obj",
+            "outputs": [
+                "D:\\OneDrive - MSFT\\Codes\\c++\\P2415 集合求和\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\P2415_.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
