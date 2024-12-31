@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "compilerPath": "C:\\cygwin64\\bin\\g++.exe",
+      "cppStandard": "c++23",
+      "includePath": [
+        "${{workspaceFolder}}/**",
+        "C:/cygwin64/usr/lib/gcc/x86_64-pc-cygwin/12/include/c++",
+        "C:/cygwin64/usr/lib/gcc/x86_64-pc-cygwin/12/include/c++/x86_64-pc-cygwin",
+        "C:/cygwin64/usr/lib/gcc/x86_64-pc-cygwin/12/include/c++/backward",
+        "C:/cygwin64/usr/lib/gcc/x86_64-pc-cygwin/12/include",
+        "C:/cygwin64/usr/include",
+        "C:/cygwin64/usr/lib/gcc/x86_64-pc-cygwin/12/../../../../lib/../include/w32api"
+      ],
+      "intelliSenseMode": "windows-gcc-x64",
+      "name": "Win32"
+    }
+  ],
+  "version": 4
+}

@@ -12,7 +12,7 @@ int main() {
 	}
 	sort(a, a + N);
 	for (int i = 0; i < N; i++) {
-		cout << a[i] << " ";
+		cout << " " << a[i];
 	}
 	return 0;
 }
